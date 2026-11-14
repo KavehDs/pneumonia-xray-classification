@@ -1,0 +1,7 @@
+# Full dataset (downloaded at runtime from Zenodo) — binary, not pushed
+data/pneumoniamnist.npz
+# Trained model weights — binary, not pushed; the demo retrains on startup
+models/
+__pycache__/
+*.pyc
+.venv/
