@@ -1,5 +1,7 @@
 # Pneumonia Detection from Chest X-rays — PneumoniaMNIST
 
+🚀 **Live demo:** [Try the app](https://pfdubaypbxrm8zkk7tjv9t.streamlit.app/)
+
 Binary classification of paediatric chest X-rays: **pneumonia vs normal**,
 using the PneumoniaMNIST benchmark from MedMNIST v2. Two models are compared:
 a Logistic Regression baseline on flattened pixels and a small CNN in PyTorch.
